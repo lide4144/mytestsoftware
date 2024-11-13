@@ -19,13 +19,11 @@
 
 ## 安装依赖
 
-shell
 pip install PyQt6
 
 
 ## 运行方法
 
-shell
 python run.py
 
 
